@@ -16,7 +16,7 @@ export default function Header() {
             onClick={toggleTheme}
             style={{ backgroundColor: theme.background }}
           >
-            Toggle Theme
+            Toggle The Theme
           </button>
         </header>
       )}
